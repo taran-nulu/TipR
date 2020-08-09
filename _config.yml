@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : cut
 
   - title                                 : Traveling?
-    description                           : Choose a foreign currency and set a conversion ratio. Enter the bill in the foreign currency and see it yours as well.
+    description                           : Choose a foreign currency and set a conversion ratio. Enter the bill in the foreign currency and see it in yours as well.
     fontawesome_icon_name                 : globe
 
   - title                                 : Dark and Light Mode
