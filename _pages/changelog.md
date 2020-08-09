@@ -13,5 +13,5 @@ include_in_header: true
 - Calculate tips
 - Split the bill with others
 - Traveling? Choose a foreign currency and set a conversion ratio
-- Enter the bill in the foreign currency and see it yours as well
+- Enter the bill in the foreign currency and see it in yours as well
 - Support for dark and light modes
