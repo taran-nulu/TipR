@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Calculate Tips
-    description                           : Pick a percentage. It will be remebered for next time.
+    description                           : Pick a percentage. It will be remembered for next time.
     fontawesome_icon_name                 : percentage
     
   - title                                 : Split the Bill
