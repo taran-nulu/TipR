@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+### `Latest`
+# **Version 1.1**
+
+#### What's In It
+- Bug fixes
+- Change layout to tabs for calculator and settings
+
 ### `Initial Release`
 # **Version 1.0**
 
